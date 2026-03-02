@@ -13,13 +13,24 @@ header#siteheader{
   border:1px solid darkgrey;
   border-radius: 5px 5px 0 0;
   padding: 20px
-  text-align: centre;
+ 
 }
 /*styling site title*/
 h1#sitetitle{
   font-family: arial;
   font-size: 32px;
   color: orange;
+   text-align: centre;
 }
+/*site motto*/
+span#sitemotto{
+  font-size: 18px;
+  font-family: tahoma;
+  font-style: italic;
+  color: aqua;
+  text-align: centre;
+}
+/*site navigation*/
+
 
   
